@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz{
+    background-color: white;
+    padding: 60px 60px 20px 60px;
+    margin: 25vh 0;
+    border-radius: 25px;
+}
+.btn{
+    width: 115%;
+    margin-left: -50px;
+height: 35px;
+border-radius: 11px;
+border: none;
+background-color: aqua;
+margin-top: 75px;
+cursor: pointer;
+}
+.d{
+    font-size: 20px;
+}
